@@ -1,0 +1,55 @@
+*{
+	margin: 0px;
+	padding: 0px;
+}
+
+#header{
+	margin: 0px;
+  max-width: 100%;
+  height: 100px;
+  background-color: powderblue;
+
+}
+.nav-icon{
+	margin: 15px 0px 15px 15px;
+	padding: 5px;
+	width: 60px;
+	float: left;
+
+}
+
+.nav-title{
+	font-size: 30px;
+	margin: 15px 0px 15px 0px;
+	padding:15px;
+	display: flex;
+	float: left;
+	
+}
+.nav-links{
+	text-decoration: none;
+	font-size: 20px;
+	color: red;
+	padding: 10px;
+    float: right;
+    margin: 30px;
+ }
+ .nav-links:hover{
+	background-color: #000;
+	color: #fff;
+}
+
+.sec1{
+	margin: 0px;
+	max-width: 50%;
+	max-height: 60%;
+	background-color: red;
+}
+.sec2{
+	margin: 0px;
+	max-width: 50%;
+	max-height: 60%;
+	background-color: gray;
+	display: flex;
+	float:right;
+}
